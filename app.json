@@ -1,0 +1,12 @@
+{
+  "name": "react-lottie",
+  "displayName": "react-lottie",
+  "expo": {
+    "name": "react-lottie",
+    "slug": "react-lottie",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
